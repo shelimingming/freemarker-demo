@@ -1,0 +1,5 @@
+本工程主要是freemarker的学习demo工程
+包括：
+1.freemarker的helloworld
+2.freemarker的基本语法
+3.freemarker集成spring MVC
